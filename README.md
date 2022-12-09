@@ -1,5 +1,7 @@
 ## Analyze Weekly Reports from Employees
 
+![image](https://github.com/Shubhamsaboo/weekly-report-analysis/blob/main/workflow.png)
+
 ### Application has two endpoints: 
 
 1. **Summarization Endpoint:** It takes in the weekly report from all the employees and summarize all of them into one report by highlighting the key points.
