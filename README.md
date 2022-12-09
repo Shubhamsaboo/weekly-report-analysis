@@ -1,4 +1,4 @@
-## Analyze Weekly Reports from Employees
+## Weekly Reports Analysis
 
 ![image](https://github.com/Shubhamsaboo/weekly-report-analysis/blob/main/workflow.png)
 
