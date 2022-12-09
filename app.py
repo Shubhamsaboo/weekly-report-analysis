@@ -2,7 +2,7 @@ import streamlit as st
 import openai
 
 # Set up the OpenAI API key and credentials
-openai.api_key = st.secret("API_KEY")
+openai.api_key = st.secrets("API_KEY")
 
 st.title("Weekly Report Analysis 🗂️")
 st.image("logo.png")
